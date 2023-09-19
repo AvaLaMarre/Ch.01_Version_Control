@@ -3,19 +3,19 @@
 
 
 1. Define Forking (1pt): 
-
+Copy of the original code
 2. Define Cloning (1pt): 
-
+Copy of the source code
 3. Define Branching (1pt):
-
+parallel versions of code
 4. Define Committing (1pt): 
-
+saving changes
 5. Define Merging (1pt): 
-
+allows diffrent verions to intergrate into the code
 6. Define Pushing (1pt):
-
+Send the code to someone for integration
 7. Define Pull Request (1pt):
-
+Asking the owner of the original file to incorporate your code into the master file
 
 8. TURTORIAL ART (10pts.)
 
